@@ -1,5 +1,5 @@
 {
-  "name": "kiet-website",
+  "name": "kiet-website-gallery",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
