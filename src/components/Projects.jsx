@@ -6,7 +6,7 @@ export function Projects() {
   ];
 
   return (
-    <section className="p-10 bg-white">
+    <section id="du-an" className="p-10 bg-white">
       <h2 className="text-2xl font-bold mb-6 text-gray-800">Dự Án Tiêu Biểu</h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         {projects.map((project, index) => (
